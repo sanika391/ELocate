@@ -99,15 +99,6 @@ by intelliswift.
 # Hi, We are Spam Byte! 👋
 
 
-## 🚀 About us
-
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
-
-- Krishna Dnyaneshwar Aute - [Krishna]()
-- Shubham Vishnu Pitekar - [Shuence](https://github.com/shuence)
-- Dayeeta Chakravorty - [Dayeeta]()
-- Samruddhi Shirish Giri - [Samruddhi]()
-- Siddhi Sudhakar Tribhuwan - [Siddhi]()
 
 ## Happy coding 💯
 
